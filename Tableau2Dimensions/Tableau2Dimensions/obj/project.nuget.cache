@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4TrGMqiDWs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\btssio\\Desktop\\Ap 3 c# Jeux\\Morpion\\Tableau2Dimensions\\Tableau2Dimensions\\Tableau2Dimensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\btssio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\btssio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\btssio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\btssio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.exe
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.deps.json
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.runtimeconfig.json
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.dll
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.pdb
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.AssemblyInfoInputs.cache
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.AssemblyInfo.cs
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.csproj.CoreCompileInputs.cache
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.dll
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\refint\Tableau2Dimensions.dll
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.pdb
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.genruntimeconfig.cache
+C:\Users\Stoorms\source\repos\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\ref\Tableau2Dimensions.dll
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.exe
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.deps.json
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.runtimeconfig.json
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.dll
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\bin\Debug\net6.0\Tableau2Dimensions.pdb
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.AssemblyInfoInputs.cache
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.AssemblyInfo.cs
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.csproj.CoreCompileInputs.cache
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.dll
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\refint\Tableau2Dimensions.dll
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.pdb
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.genruntimeconfig.cache
+D:\Cours\Sio\TSUP 1\Ap\Ap 3\Ap 1.1\élève\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\ref\Tableau2Dimensions.dll
+\\WDSENTINEL\Documents\SALLE B 305\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.dll
+\\WDSENTINEL\Documents\SALLE B 305\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\refint\Tableau2Dimensions.dll
+\\WDSENTINEL\Documents\SALLE B 305\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Tableau2Dimensions\Tableau2Dimensions\obj\Debug\net6.0\Tableau2Dimensions.pdb
